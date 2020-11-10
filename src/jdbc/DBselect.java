@@ -36,6 +36,7 @@ public class DBselect {
 					System.out.print(rs.getInt(3) + "\t");
 					System.out.print(rs.getString(4) + "\t");
 					System.out.print(rs.getString(5) + "\n");
+
 				}
 			}
 
